@@ -126,3 +126,56 @@ The four-criterion decomposition of the SIDS acronym used in this dataset draws 
 > Pelling, M. & Uitto, J.I. (2001). Small island developing states: natural disaster vulnerability and global change. *Environmental Hazards*, 3(2), 49–62.
 
 Researchers using these columns in published work should document the thresholds applied and the date of the World Bank income classification used.
+
+
+## sids_tier column
+
+The `sids_tier` column distinguishes between the two membership categories
+within the full UN OHRLLS SIDS list of 57 entries. The `is_sids` column
+flags all 57 entries with a value of 1, while `sids_tier` provides the
+finer distinction needed for analysis.
+
+| Value | Count | Description |
+|---|---|---|
+| `Sovereign member` | 39 | UN member states recognised as SIDS |
+| `Associate member` | 18 | Non-sovereign territories that are associate members of UN Regional Commissions |
+| *(blank)* | — | Not on the UN OHRLLS SIDS list |
+
+**Associate members** are non-sovereign territories recognised under the
+SIDS framework through their associate membership of regional intergovernmental
+bodies (Caribbean Community, Pacific Islands Forum, Indian Ocean Commission).
+They share the structural vulnerabilities of SIDS but lack sovereign UN member
+status. The 18 associate members in this dataset are: American Samoa, Anguilla,
+Aruba, Bermuda, British Virgin Islands, Cayman Islands, Curaçao, French
+Polynesia, Guadeloupe, Guam, Martinique, Montserrat, New Caledonia,
+Northern Mariana Islands, Puerto Rico, Sint Maarten, Turks and Caicos Islands,
+and US Virgin Islands.
+
+**Note on Montserrat**: Montserrat appears on the official UN OHRLLS list
+and was previously flagged `is_sids = 1` in this dataset as a sovereign member.
+It is correctly classified as an associate member given its status as a British
+Overseas Territory. It remains analytically notable as the only associate member
+that would also fail the `criterion_developing` test under the World Bank
+FY2025 classification.
+
+**Note on Aruba, Curaçao, and Sint Maarten**: All three are constituent
+countries of the Kingdom of the Netherlands and are classified as associate
+members. They are assigned `political_association = "Dutch Kingdom"` and
+`is_snij = 1` in this dataset, reflecting their dual status as both SIDS
+associate members and sub-national island jurisdictions.
+
+### Usage guidance
+
+To filter the full SIDS list: `filter(is_sids == 1)`
+
+To filter sovereign members only: `filter(sids_tier == "Sovereign member")`
+
+To filter associate members only: `filter(sids_tier == "Associate member")`
+
+The criterion columns (`criterion_small`, `criterion_island`,
+`criterion_developing`, `criterion_sovereign`) are populated for all rows
+where `sids_tier == "Sovereign member"`. They are intentionally left blank
+for associate members because sovereignty is a prerequisite for the
+criterion framework to be analytically coherent — testing a non-sovereign
+territory against a criterion that presupposes statehood produces
+misleading results.
