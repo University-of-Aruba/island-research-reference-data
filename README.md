@@ -81,7 +81,7 @@ See `countries/NOTES.md` for detailed decisions on edge cases.
 library(tidyverse)
 
 countries <- read_csv(
-  "https://raw.githubusercontent.com/[UA-ORG]/island-research-reference-data/main/countries/countries_reference_xlsform.csv",
+  "https://raw.githubusercontent.com/University-of-Aruba/island-research-reference-data/main/countries/countries_reference_xlsform.csv",
   locale = locale(encoding = "UTF-8")
 )
 
@@ -116,7 +116,7 @@ purpose, provided you give appropriate credit.
 **Suggested citation:**
 > University of Aruba Research. (2026). *Island Research Reference 
 > Data* (Version 1.0) [Dataset]. GitHub. 
-> https://github.com/[UA-ORG]/island-research-reference-data
+> https://github.com/University-of-Aruba/island-research-reference-data
 
 ---
 
