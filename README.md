@@ -127,8 +127,3 @@ an issue. Please reference your source when suggesting classification
 changes.
 
 ---
-
-## Contact
-
-Maintained by [Cornerstone Economics](https://www.cornerstoneeconomics.aw) 
-in collaboration with the University of Aruba.
