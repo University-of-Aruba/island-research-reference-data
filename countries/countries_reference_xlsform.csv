@@ -1,252 +1,252 @@
-list_name,name,label,iso_code,wb_region,wb_income_group,political_association,is_sids,is_snij
-countries,AF,Afghanistan,AF,South Asia,Low income,Independent,0,0
-countries,AX,Åland Islands,AX,Europe & Central Asia,High income,Finland,0,1
-countries,AL,Albania,AL,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,DZ,Algeria,DZ,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,AS,American Samoa,AS,East Asia & Pacific,Upper-middle income,United States,0,1
-countries,AD,Andorra,AD,Europe & Central Asia,High income,Independent,0,0
-countries,AO,Angola,AO,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,AI,Anguilla,AI,Latin America & Caribbean,High income,United Kingdom,0,1
-countries,AQ,Antarctica,AQ,,,N/A,0,0
-countries,AG,Antigua and Barbuda,AG,Latin America & Caribbean,High income,Independent,1,0
-countries,AR,Argentina,AR,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,AM,Armenia,AM,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,AW,Aruba,AW,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,AU,Australia,AU,East Asia & Pacific,High income,Independent,0,0
-countries,AT,Austria,AT,Europe & Central Asia,High income,Independent,0,0
-countries,AZ,Azerbaijan,AZ,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,BS,Bahamas,BS,Latin America & Caribbean,High income,Independent,1,0
-countries,BH,Bahrain,BH,Middle East & North Africa,High income,Independent,1,0
-countries,BD,Bangladesh,BD,South Asia,Lower-middle income,Independent,0,0
-countries,BB,Barbados,BB,Latin America & Caribbean,High income,Independent,1,0
-countries,BY,Belarus,BY,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,BE,Belgium,BE,Europe & Central Asia,High income,Independent,0,0
-countries,BZ,Belize,BZ,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,BJ,Benin,BJ,Sub-Saharan Africa,Low income,Independent,0,0
-countries,BM,Bermuda,BM,North America,High income,United Kingdom,0,1
-countries,BT,Bhutan,BT,South Asia,Lower-middle income,Independent,0,0
-countries,BO,Bolivia,BO,Latin America & Caribbean,Lower-middle income,Independent,0,0
-countries,BQ_BO,Bonaire,BQ-BO,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,BA,Bosnia and Herzegovina,BA,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,BW,Botswana,BW,Sub-Saharan Africa,Upper-middle income,Independent,0,0
-countries,BV,Bouvet Island,BV,,,Norway,0,0
-countries,BR,Brazil,BR,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,IO,British Indian Ocean Territory,IO,South Asia,,United Kingdom,0,1
-countries,BN,Brunei Darussalam,BN,East Asia & Pacific,High income,Independent,0,0
-countries,BG,Bulgaria,BG,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,BF,Burkina Faso,BF,Sub-Saharan Africa,Low income,Independent,0,0
-countries,BI,Burundi,BI,Sub-Saharan Africa,Low income,Independent,0,0
-countries,CV,Cabo Verde,CV,Sub-Saharan Africa,Lower-middle income,Independent,1,0
-countries,KH,Cambodia,KH,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,CM,Cameroon,CM,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,CA,Canada,CA,North America,High income,Independent,0,0
-countries,KY,Cayman Islands,KY,Latin America & Caribbean,High income,United Kingdom,0,1
-countries,CF,Central African Republic,CF,Sub-Saharan Africa,Low income,Independent,0,0
-countries,TD,Chad,TD,Sub-Saharan Africa,Low income,Independent,0,0
-countries,CL,Chile,CL,Latin America & Caribbean,High income,Independent,0,0
-countries,CN,China,CN,East Asia & Pacific,Upper-middle income,Independent,0,0
-countries,CX,Christmas Island,CX,East Asia & Pacific,High income,Australia,0,1
-countries,CC,Cocos (Keeling) Islands,CC,East Asia & Pacific,High income,Australia,0,1
-countries,CO,Colombia,CO,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,KM,Comoros,KM,Sub-Saharan Africa,Low income,Independent,1,0
-countries,CG,Congo,CG,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,CD,Congo (Democratic Republic),CD,Sub-Saharan Africa,Low income,Independent,0,0
-countries,CK,Cook Islands,CK,East Asia & Pacific,Upper-middle income,New Zealand,1,1
-countries,CR,Costa Rica,CR,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,CI,Côte d'Ivoire,CI,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,HR,Croatia,HR,Europe & Central Asia,High income,Independent,0,0
-countries,CU,Cuba,CU,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,CW,Curaçao,CW,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,CY,Cyprus,CY,Europe & Central Asia,High income,Independent,0,0
-countries,CZ,Czechia,CZ,Europe & Central Asia,High income,Independent,0,0
-countries,DK,Denmark,DK,Europe & Central Asia,High income,Independent,0,0
-countries,DJ,Djibouti,DJ,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,DM,Dominica,DM,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,DO,Dominican Republic,DO,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,EC,Ecuador,EC,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,EG,Egypt,EG,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,SV,El Salvador,SV,Latin America & Caribbean,Lower-middle income,Independent,0,0
-countries,GQ,Equatorial Guinea,GQ,Sub-Saharan Africa,Upper-middle income,Independent,0,0
-countries,ER,Eritrea,ER,Sub-Saharan Africa,Low income,Independent,0,0
-countries,EE,Estonia,EE,Europe & Central Asia,High income,Independent,0,0
-countries,SZ,Eswatini,SZ,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,ET,Ethiopia,ET,Sub-Saharan Africa,Low income,Independent,0,0
-countries,FK,Falkland Islands,FK,Latin America & Caribbean,High income,United Kingdom,0,1
-countries,FO,Faroe Islands,FO,Europe & Central Asia,High income,Denmark,0,1
-countries,FJ,Fiji,FJ,East Asia & Pacific,Upper-middle income,Independent,1,0
-countries,FI,Finland,FI,Europe & Central Asia,High income,Independent,0,0
-countries,FR,France,FR,Europe & Central Asia,High income,Independent,0,0
-countries,GF,French Guiana,GF,Latin America & Caribbean,High income,French Republic,0,0
-countries,PF,French Polynesia,PF,East Asia & Pacific,High income,French Republic,0,1
-countries,TF,French Southern Territories,TF,,,French Republic,0,0
-countries,GA,Gabon,GA,Sub-Saharan Africa,Upper-middle income,Independent,0,0
-countries,GM,Gambia,GM,Sub-Saharan Africa,Low income,Independent,0,0
-countries,GE,Georgia,GE,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,DE,Germany,DE,Europe & Central Asia,High income,Independent,0,0
-countries,GH,Ghana,GH,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,GI,Gibraltar,GI,Europe & Central Asia,High income,United Kingdom,0,1
-countries,GR,Greece,GR,Europe & Central Asia,High income,Independent,0,0
-countries,GL,Greenland,GL,Europe & Central Asia,High income,Denmark,0,1
-countries,GD,Grenada,GD,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,GP,Guadeloupe,GP,Latin America & Caribbean,High income,French Republic,0,1
-countries,GU,Guam,GU,East Asia & Pacific,High income,United States,0,1
-countries,GT,Guatemala,GT,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,GG,Guernsey,GG,Europe & Central Asia,High income,United Kingdom,0,1
-countries,GN,Guinea,GN,Sub-Saharan Africa,Low income,Independent,0,0
-countries,GW,Guinea-Bissau,GW,Sub-Saharan Africa,Low income,Independent,1,0
-countries,GY,Guyana,GY,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,HT,Haiti,HT,Latin America & Caribbean,Low income,Independent,1,0
-countries,HM,Heard Island and McDonald Islands,HM,,,Australia,0,0
-countries,VA,Holy See (Vatican City State),VA,Europe & Central Asia,High income,Independent,0,0
-countries,HN,Honduras,HN,Latin America & Caribbean,Lower-middle income,Independent,0,0
-countries,HK,Hong Kong SAR,HK,East Asia & Pacific,High income,China,0,1
-countries,HU,Hungary,HU,Europe & Central Asia,High income,Independent,0,0
-countries,IS,Iceland,IS,Europe & Central Asia,High income,Independent,0,0
-countries,IN,India,IN,South Asia,Lower-middle income,Independent,0,0
-countries,ID,Indonesia,ID,East Asia & Pacific,Upper-middle income,Independent,0,0
-countries,IR,Iran,IR,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,IQ,Iraq,IQ,Middle East & North Africa,Upper-middle income,Independent,0,0
-countries,IE,Ireland,IE,Europe & Central Asia,High income,Independent,0,0
-countries,IM,Isle of Man,IM,Europe & Central Asia,High income,United Kingdom,0,1
-countries,IL,Israel,IL,Middle East & North Africa,High income,Independent,0,0
-countries,IT,Italy,IT,Europe & Central Asia,High income,Independent,0,0
-countries,JM,Jamaica,JM,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,JP,Japan,JP,East Asia & Pacific,High income,Independent,0,0
-countries,JE,Jersey,JE,Europe & Central Asia,High income,United Kingdom,0,1
-countries,JO,Jordan,JO,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,KZ,Kazakhstan,KZ,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,KE,Kenya,KE,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,KI,Kiribati,KI,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,KP,Korea (North),KP,East Asia & Pacific,Low income,Independent,0,0
-countries,KR,Korea (South),KR,East Asia & Pacific,High income,Independent,0,0
-countries,KW,Kuwait,KW,Middle East & North Africa,High income,Independent,0,0
-countries,KG,Kyrgyzstan,KG,Europe & Central Asia,Lower-middle income,Independent,0,0
-countries,LA,Laos,LA,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,LV,Latvia,LV,Europe & Central Asia,High income,Independent,0,0
-countries,LB,Lebanon,LB,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,LS,Lesotho,LS,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,LR,Liberia,LR,Sub-Saharan Africa,Low income,Independent,0,0
-countries,LY,Libya,LY,Middle East & North Africa,Upper-middle income,Independent,0,0
-countries,LI,Liechtenstein,LI,Europe & Central Asia,High income,Independent,0,0
-countries,LT,Lithuania,LT,Europe & Central Asia,High income,Independent,0,0
-countries,LU,Luxembourg,LU,Europe & Central Asia,High income,Independent,0,0
-countries,MO,Macao SAR,MO,East Asia & Pacific,High income,China,0,1
-countries,MG,Madagascar,MG,Sub-Saharan Africa,Low income,Independent,0,0
-countries,MW,Malawi,MW,Sub-Saharan Africa,Low income,Independent,0,0
-countries,MY,Malaysia,MY,East Asia & Pacific,Upper-middle income,Independent,0,0
-countries,MV,Maldives,MV,South Asia,Upper-middle income,Independent,1,0
-countries,ML,Mali,ML,Sub-Saharan Africa,Low income,Independent,0,0
-countries,MT,Malta,MT,Europe & Central Asia,High income,Independent,0,0
-countries,MH,Marshall Islands,MH,East Asia & Pacific,Upper-middle income,Independent,1,0
-countries,MQ,Martinique,MQ,Latin America & Caribbean,High income,French Republic,0,1
-countries,MR,Mauritania,MR,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,MU,Mauritius,MU,Sub-Saharan Africa,Upper-middle income,Independent,1,0
-countries,YT,Mayotte,YT,Sub-Saharan Africa,Upper-middle income,French Republic,0,1
-countries,MX,Mexico,MX,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,FM,Micronesia (Federated States),FM,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,MD,Moldova,MD,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,MC,Monaco,MC,Europe & Central Asia,High income,Independent,0,0
-countries,MN,Mongolia,MN,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,ME,Montenegro,ME,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,MS,Montserrat,MS,Latin America & Caribbean,High income,United Kingdom,1,1
-countries,MA,Morocco,MA,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,MZ,Mozambique,MZ,Sub-Saharan Africa,Low income,Independent,0,0
-countries,MM,Myanmar,MM,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,NA,Namibia,NA,Sub-Saharan Africa,Upper-middle income,Independent,0,0
-countries,NR,Nauru,NR,East Asia & Pacific,High income,Independent,1,0
-countries,NP,Nepal,NP,South Asia,Lower-middle income,Independent,0,0
-countries,NL,Netherlands,NL,Europe & Central Asia,High income,Dutch Kingdom,0,0
-countries,NC,New Caledonia,NC,East Asia & Pacific,High income,French Republic,0,1
-countries,NZ,New Zealand,NZ,East Asia & Pacific,High income,Independent,0,0
-countries,NI,Nicaragua,NI,Latin America & Caribbean,Lower-middle income,Independent,0,0
-countries,NE,Niger,NE,Sub-Saharan Africa,Low income,Independent,0,0
-countries,NG,Nigeria,NG,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,NU,Niue,NU,East Asia & Pacific,Upper-middle income,New Zealand,1,1
-countries,NF,Norfolk Island,NF,East Asia & Pacific,High income,Australia,0,1
-countries,MK,North Macedonia,MK,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,MP,Northern Mariana Islands,MP,East Asia & Pacific,Upper-middle income,United States,0,1
-countries,NO,Norway,NO,Europe & Central Asia,High income,Independent,0,0
-countries,OM,Oman,OM,Middle East & North Africa,High income,Independent,0,0
-countries,PK,Pakistan,PK,South Asia,Lower-middle income,Independent,0,0
-countries,PW,Palau,PW,East Asia & Pacific,High income,Independent,1,0
-countries,PS,Palestine,PS,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,PA,Panama,PA,Latin America & Caribbean,High income,Independent,0,0
-countries,PG,Papua New Guinea,PG,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,PY,Paraguay,PY,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,PE,Peru,PE,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,PH,Philippines,PH,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,PN,Pitcairn,PN,East Asia & Pacific,High income,United Kingdom,0,1
-countries,PL,Poland,PL,Europe & Central Asia,High income,Independent,0,0
-countries,PT,Portugal,PT,Europe & Central Asia,High income,Independent,0,0
-countries,PR,Puerto Rico,PR,Latin America & Caribbean,High income,United States,0,1
-countries,QA,Qatar,QA,Middle East & North Africa,High income,Independent,0,0
-countries,RE,Réunion,RE,Sub-Saharan Africa,High income,French Republic,0,1
-countries,RO,Romania,RO,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,RU,Russia,RU,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,RW,Rwanda,RW,Sub-Saharan Africa,Low income,Independent,0,0
-countries,BQ_SA,Saba,BQ-SA,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,BL,Saint Barthélemy,BL,Latin America & Caribbean,High income,French Republic,0,1
-countries,SH,Saint Helena,SH,Sub-Saharan Africa,Upper-middle income,United Kingdom,0,1
-countries,KN,Saint Kitts and Nevis,KN,Latin America & Caribbean,High income,Independent,1,0
-countries,LC,Saint Lucia,LC,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,MF,Saint Martin (French part),MF,Latin America & Caribbean,High income,French Republic,0,1
-countries,PM,Saint Pierre and Miquelon,PM,North America,High income,French Republic,0,1
-countries,VC,Saint Vincent and the Grenadines,VC,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,WS,Samoa,WS,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,SM,San Marino,SM,Europe & Central Asia,High income,Independent,0,0
-countries,ST,São Tomé and Príncipe,ST,Sub-Saharan Africa,Lower-middle income,Independent,1,0
-countries,SA,Saudi Arabia,SA,Middle East & North Africa,High income,Independent,0,0
-countries,SN,Senegal,SN,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,RS,Serbia,RS,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,SC,Seychelles,SC,Sub-Saharan Africa,High income,Independent,1,0
-countries,SL,Sierra Leone,SL,Sub-Saharan Africa,Low income,Independent,0,0
-countries,SG,Singapore,SG,East Asia & Pacific,High income,Independent,1,0
-countries,BQ_SE,Sint Eustatius,BQ-SE,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,SX,Sint Maarten,SX,Latin America & Caribbean,High income,Dutch Kingdom,0,1
-countries,SK,Slovakia,SK,Europe & Central Asia,High income,Independent,0,0
-countries,SI,Slovenia,SI,Europe & Central Asia,High income,Independent,0,0
-countries,SB,Solomon Islands,SB,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,SO,Somalia,SO,Sub-Saharan Africa,Low income,Independent,0,0
-countries,ZA,South Africa,ZA,Sub-Saharan Africa,Upper-middle income,Independent,0,0
-countries,GS,South Georgia and South Sandwich Islands,GS,,,United Kingdom,0,0
-countries,SS,South Sudan,SS,Sub-Saharan Africa,Low income,Independent,0,0
-countries,ES,Spain,ES,Europe & Central Asia,High income,Independent,0,0
-countries,LK,Sri Lanka,LK,South Asia,Lower-middle income,Independent,0,0
-countries,SD,Sudan,SD,Sub-Saharan Africa,Low income,Independent,0,0
-countries,SR,Suriname,SR,Latin America & Caribbean,Upper-middle income,Independent,1,0
-countries,SJ,Svalbard and Jan Mayen,SJ,Europe & Central Asia,High income,Norway,0,0
-countries,SE,Sweden,SE,Europe & Central Asia,High income,Independent,0,0
-countries,CH,Switzerland,CH,Europe & Central Asia,High income,Independent,0,0
-countries,SY,Syria,SY,Middle East & North Africa,Low income,Independent,0,0
-countries,TW,Taiwan,TW,East Asia & Pacific,High income,Independent,0,0
-countries,TJ,Tajikistan,TJ,Europe & Central Asia,Low income,Independent,0,0
-countries,TZ,Tanzania,TZ,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,TH,Thailand,TH,East Asia & Pacific,Upper-middle income,Independent,0,0
-countries,TL,Timor-Leste,TL,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,TG,Togo,TG,Sub-Saharan Africa,Low income,Independent,0,0
-countries,TK,Tokelau,TK,East Asia & Pacific,,New Zealand,0,1
-countries,TO,Tonga,TO,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,TT,Trinidad and Tobago,TT,Latin America & Caribbean,High income,Independent,1,0
-countries,TN,Tunisia,TN,Middle East & North Africa,Lower-middle income,Independent,0,0
-countries,TR,Turkey,TR,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,TM,Turkmenistan,TM,Europe & Central Asia,Upper-middle income,Independent,0,0
-countries,TC,Turks and Caicos Islands,TC,Latin America & Caribbean,High income,United Kingdom,0,1
-countries,TV,Tuvalu,TV,East Asia & Pacific,Upper-middle income,Independent,1,0
-countries,UG,Uganda,UG,Sub-Saharan Africa,Low income,Independent,0,0
-countries,UA,Ukraine,UA,Europe & Central Asia,Lower-middle income,Independent,0,0
-countries,AE,United Arab Emirates,AE,Middle East & North Africa,High income,Independent,0,0
-countries,GB,United Kingdom,GB,Europe & Central Asia,High income,Independent,0,0
-countries,UM,United States Minor Outlying Islands,UM,East Asia & Pacific,High income,United States,0,1
-countries,US,United States,US,North America,High income,Independent,0,0
-countries,UY,Uruguay,UY,Latin America & Caribbean,High income,Independent,0,0
-countries,UZ,Uzbekistan,UZ,Europe & Central Asia,Lower-middle income,Independent,0,0
-countries,VU,Vanuatu,VU,East Asia & Pacific,Lower-middle income,Independent,1,0
-countries,VE,Venezuela,VE,Latin America & Caribbean,Upper-middle income,Independent,0,0
-countries,VN,Viet Nam,VN,East Asia & Pacific,Lower-middle income,Independent,0,0
-countries,VG,Virgin Islands (British),VG,Latin America & Caribbean,High income,United Kingdom,0,1
-countries,VI,Virgin Islands (U.S.),VI,Latin America & Caribbean,High income,United States,0,1
-countries,WF,Wallis and Futuna,WF,East Asia & Pacific,Upper-middle income,French Republic,0,1
-countries,EH,Western Sahara,EH,Middle East & North Africa,,Independent,0,0
-countries,YE,Yemen,YE,Middle East & North Africa,Low income,Independent,0,0
-countries,ZM,Zambia,ZM,Sub-Saharan Africa,Lower-middle income,Independent,0,0
-countries,ZW,Zimbabwe,ZW,Sub-Saharan Africa,Lower-middle income,Independent,0,0
+list_name,name,label,iso_code,wb_region,wb_income_group,political_association,is_sids,is_snij,criterion_small,criterion_island,criterion_developing,criterion_sovereign
+countries,AF,Afghanistan,AF,South Asia,Low income,Independent,0,0,0,0,1,1
+countries,AX,Åland Islands,AX,Europe & Central Asia,High income,Finland,0,1,1,1,0,0
+countries,AL,Albania,AL,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,DZ,Algeria,DZ,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,AS,American Samoa,AS,East Asia & Pacific,Upper-middle income,United States,0,1,1,1,1,0
+countries,AD,Andorra,AD,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,AO,Angola,AO,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,AI,Anguilla,AI,Latin America & Caribbean,High income,United Kingdom,0,1,1,1,0,0
+countries,AQ,Antarctica,AQ,,,N/A,0,0,,,,
+countries,AG,Antigua and Barbuda,AG,Latin America & Caribbean,High income,Independent,1,0,1,1,0,1
+countries,AR,Argentina,AR,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,AM,Armenia,AM,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,AW,Aruba,AW,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,AU,Australia,AU,East Asia & Pacific,High income,Independent,0,0,0,1,0,1
+countries,AT,Austria,AT,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,AZ,Azerbaijan,AZ,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,BS,Bahamas,BS,Latin America & Caribbean,High income,Independent,1,0,1,1,0,1
+countries,BH,Bahrain,BH,Middle East & North Africa,High income,Independent,1,0,0,1,0,1
+countries,BD,Bangladesh,BD,South Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,BB,Barbados,BB,Latin America & Caribbean,High income,Independent,1,0,1,1,0,1
+countries,BY,Belarus,BY,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,BE,Belgium,BE,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,BZ,Belize,BZ,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,0,1,1
+countries,BJ,Benin,BJ,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,BM,Bermuda,BM,North America,High income,United Kingdom,0,1,1,1,0,0
+countries,BT,Bhutan,BT,South Asia,Lower-middle income,Independent,0,0,1,0,1,1
+countries,BO,Bolivia,BO,Latin America & Caribbean,Lower-middle income,Independent,0,0,0,0,1,1
+countries,BQ_BO,Bonaire,BQ-BO,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,BA,Bosnia and Herzegovina,BA,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,BW,Botswana,BW,Sub-Saharan Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,BV,Bouvet Island,BV,,,Norway,0,0,1,1,,0
+countries,BR,Brazil,BR,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,IO,British Indian Ocean Territory,IO,South Asia,,United Kingdom,0,1,1,1,,0
+countries,BN,Brunei Darussalam,BN,East Asia & Pacific,High income,Independent,0,0,1,1,0,1
+countries,BG,Bulgaria,BG,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,BF,Burkina Faso,BF,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,BI,Burundi,BI,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,CV,Cabo Verde,CV,Sub-Saharan Africa,Lower-middle income,Independent,1,0,1,1,1,1
+countries,KH,Cambodia,KH,East Asia & Pacific,Lower-middle income,Independent,0,0,0,0,1,1
+countries,CM,Cameroon,CM,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,CA,Canada,CA,North America,High income,Independent,0,0,0,0,0,1
+countries,KY,Cayman Islands,KY,Latin America & Caribbean,High income,United Kingdom,0,1,1,1,0,0
+countries,CF,Central African Republic,CF,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,TD,Chad,TD,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,CL,Chile,CL,Latin America & Caribbean,High income,Independent,0,0,0,0,0,1
+countries,CN,China,CN,East Asia & Pacific,Upper-middle income,Independent,0,0,0,0,1,1
+countries,CX,Christmas Island,CX,East Asia & Pacific,High income,Australia,0,1,1,1,0,0
+countries,CC,Cocos (Keeling) Islands,CC,East Asia & Pacific,High income,Australia,0,1,1,1,0,0
+countries,CO,Colombia,CO,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,KM,Comoros,KM,Sub-Saharan Africa,Low income,Independent,1,0,1,1,1,1
+countries,CG,Congo,CG,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,CD,Congo (Democratic Republic),CD,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,CK,Cook Islands,CK,East Asia & Pacific,Upper-middle income,New Zealand,1,1,1,1,1,0
+countries,CR,Costa Rica,CR,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,CI,Côte d'Ivoire,CI,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,HR,Croatia,HR,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,CU,Cuba,CU,Latin America & Caribbean,Upper-middle income,Independent,1,0,0,1,1,1
+countries,CW,Curaçao,CW,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,CY,Cyprus,CY,Europe & Central Asia,High income,Independent,0,0,1,1,0,1
+countries,CZ,Czechia,CZ,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,DK,Denmark,DK,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,DJ,Djibouti,DJ,Middle East & North Africa,Lower-middle income,Independent,0,0,1,0,1,1
+countries,DM,Dominica,DM,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,1,1,1
+countries,DO,Dominican Republic,DO,Latin America & Caribbean,Upper-middle income,Independent,1,0,0,1,1,1
+countries,EC,Ecuador,EC,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,EG,Egypt,EG,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,SV,El Salvador,SV,Latin America & Caribbean,Lower-middle income,Independent,0,0,0,0,1,1
+countries,GQ,Equatorial Guinea,GQ,Sub-Saharan Africa,Upper-middle income,Independent,0,0,1,0,1,1
+countries,ER,Eritrea,ER,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,EE,Estonia,EE,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,SZ,Eswatini,SZ,Sub-Saharan Africa,Lower-middle income,Independent,0,0,1,0,1,1
+countries,ET,Ethiopia,ET,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,FK,Falkland Islands,FK,Latin America & Caribbean,High income,United Kingdom,0,1,1,1,0,0
+countries,FO,Faroe Islands,FO,Europe & Central Asia,High income,Denmark,0,1,1,1,0,0
+countries,FJ,Fiji,FJ,East Asia & Pacific,Upper-middle income,Independent,1,0,1,1,1,1
+countries,FI,Finland,FI,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,FR,France,FR,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,GF,French Guiana,GF,Latin America & Caribbean,High income,French Republic,0,0,1,0,0,0
+countries,PF,French Polynesia,PF,East Asia & Pacific,High income,French Republic,0,1,1,1,0,0
+countries,TF,French Southern Territories,TF,,,French Republic,0,0,1,1,,0
+countries,GA,Gabon,GA,Sub-Saharan Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,GM,Gambia,GM,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,GE,Georgia,GE,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,DE,Germany,DE,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,GH,Ghana,GH,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,GI,Gibraltar,GI,Europe & Central Asia,High income,United Kingdom,0,1,1,0,0,0
+countries,GR,Greece,GR,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,GL,Greenland,GL,Europe & Central Asia,High income,Denmark,0,1,1,1,0,0
+countries,GD,Grenada,GD,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,1,1,1
+countries,GP,Guadeloupe,GP,Latin America & Caribbean,High income,French Republic,0,1,1,1,0,0
+countries,GU,Guam,GU,East Asia & Pacific,High income,United States,0,1,1,1,0,0
+countries,GT,Guatemala,GT,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,GG,Guernsey,GG,Europe & Central Asia,High income,United Kingdom,0,1,1,1,0,0
+countries,GN,Guinea,GN,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,GW,Guinea-Bissau,GW,Sub-Saharan Africa,Low income,Independent,1,0,0,0,1,1
+countries,GY,Guyana,GY,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,0,1,1
+countries,HT,Haiti,HT,Latin America & Caribbean,Low income,Independent,1,0,0,1,1,1
+countries,HM,Heard Island and McDonald Islands,HM,,,Australia,0,0,1,1,,0
+countries,VA,Holy See (Vatican City State),VA,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,HN,Honduras,HN,Latin America & Caribbean,Lower-middle income,Independent,0,0,0,0,1,1
+countries,HK,Hong Kong SAR,HK,East Asia & Pacific,High income,China,0,1,0,1,0,0
+countries,HU,Hungary,HU,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,IS,Iceland,IS,Europe & Central Asia,High income,Independent,0,0,1,1,0,1
+countries,IN,India,IN,South Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,ID,Indonesia,ID,East Asia & Pacific,Upper-middle income,Independent,0,0,0,1,1,1
+countries,IR,Iran,IR,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,IQ,Iraq,IQ,Middle East & North Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,IE,Ireland,IE,Europe & Central Asia,High income,Independent,0,0,0,1,0,1
+countries,IM,Isle of Man,IM,Europe & Central Asia,High income,United Kingdom,0,1,1,1,0,0
+countries,IL,Israel,IL,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,IT,Italy,IT,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,JM,Jamaica,JM,Latin America & Caribbean,Upper-middle income,Independent,1,0,0,1,1,1
+countries,JP,Japan,JP,East Asia & Pacific,High income,Independent,0,0,0,1,0,1
+countries,JE,Jersey,JE,Europe & Central Asia,High income,United Kingdom,0,1,1,1,0,0
+countries,JO,Jordan,JO,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,KZ,Kazakhstan,KZ,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,KE,Kenya,KE,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,KI,Kiribati,KI,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,KP,Korea (North),KP,East Asia & Pacific,Low income,Independent,0,0,0,0,1,1
+countries,KR,Korea (South),KR,East Asia & Pacific,High income,Independent,0,0,0,0,0,1
+countries,KW,Kuwait,KW,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,KG,Kyrgyzstan,KG,Europe & Central Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,LA,Laos,LA,East Asia & Pacific,Lower-middle income,Independent,0,0,0,0,1,1
+countries,LV,Latvia,LV,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,LB,Lebanon,LB,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,LS,Lesotho,LS,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,LR,Liberia,LR,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,LY,Libya,LY,Middle East & North Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,LI,Liechtenstein,LI,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,LT,Lithuania,LT,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,LU,Luxembourg,LU,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,MO,Macao SAR,MO,East Asia & Pacific,High income,China,0,1,1,1,0,0
+countries,MG,Madagascar,MG,Sub-Saharan Africa,Low income,Independent,0,0,0,1,1,1
+countries,MW,Malawi,MW,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,MY,Malaysia,MY,East Asia & Pacific,Upper-middle income,Independent,0,0,0,0,1,1
+countries,MV,Maldives,MV,South Asia,Upper-middle income,Independent,1,0,1,1,1,1
+countries,ML,Mali,ML,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,MT,Malta,MT,Europe & Central Asia,High income,Independent,0,0,1,1,0,1
+countries,MH,Marshall Islands,MH,East Asia & Pacific,Upper-middle income,Independent,1,0,1,1,1,1
+countries,MQ,Martinique,MQ,Latin America & Caribbean,High income,French Republic,0,1,1,1,0,0
+countries,MR,Mauritania,MR,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,MU,Mauritius,MU,Sub-Saharan Africa,Upper-middle income,Independent,1,0,1,1,1,1
+countries,YT,Mayotte,YT,Sub-Saharan Africa,Upper-middle income,French Republic,0,1,1,1,1,0
+countries,MX,Mexico,MX,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,FM,Micronesia (Federated States),FM,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,MD,Moldova,MD,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,MC,Monaco,MC,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,MN,Mongolia,MN,East Asia & Pacific,Lower-middle income,Independent,0,0,0,0,1,1
+countries,ME,Montenegro,ME,Europe & Central Asia,Upper-middle income,Independent,0,0,1,0,1,1
+countries,MS,Montserrat,MS,Latin America & Caribbean,High income,United Kingdom,1,1,1,1,0,0
+countries,MA,Morocco,MA,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,MZ,Mozambique,MZ,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,MM,Myanmar,MM,East Asia & Pacific,Lower-middle income,Independent,0,0,0,0,1,1
+countries,NA,Namibia,NA,Sub-Saharan Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,NR,Nauru,NR,East Asia & Pacific,High income,Independent,1,0,1,1,0,1
+countries,NP,Nepal,NP,South Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,NL,Netherlands,NL,Europe & Central Asia,High income,Dutch Kingdom,0,0,0,0,0,0
+countries,NC,New Caledonia,NC,East Asia & Pacific,High income,French Republic,0,1,1,1,0,0
+countries,NZ,New Zealand,NZ,East Asia & Pacific,High income,Independent,0,0,0,1,0,1
+countries,NI,Nicaragua,NI,Latin America & Caribbean,Lower-middle income,Independent,0,0,0,0,1,1
+countries,NE,Niger,NE,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,NG,Nigeria,NG,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,NU,Niue,NU,East Asia & Pacific,Upper-middle income,New Zealand,1,1,1,1,1,0
+countries,NF,Norfolk Island,NF,East Asia & Pacific,High income,Australia,0,1,1,1,0,0
+countries,MK,North Macedonia,MK,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,MP,Northern Mariana Islands,MP,East Asia & Pacific,Upper-middle income,United States,0,1,1,1,1,0
+countries,NO,Norway,NO,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,OM,Oman,OM,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,PK,Pakistan,PK,South Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,PW,Palau,PW,East Asia & Pacific,High income,Independent,1,0,1,1,0,1
+countries,PS,Palestine,PS,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,PA,Panama,PA,Latin America & Caribbean,High income,Independent,0,0,0,0,0,1
+countries,PG,Papua New Guinea,PG,East Asia & Pacific,Lower-middle income,Independent,1,0,0,1,1,1
+countries,PY,Paraguay,PY,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,PE,Peru,PE,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,PH,Philippines,PH,East Asia & Pacific,Lower-middle income,Independent,0,0,0,1,1,1
+countries,PN,Pitcairn,PN,East Asia & Pacific,High income,United Kingdom,0,1,1,1,0,0
+countries,PL,Poland,PL,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,PT,Portugal,PT,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,PR,Puerto Rico,PR,Latin America & Caribbean,High income,United States,0,1,0,1,0,0
+countries,QA,Qatar,QA,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,RE,Réunion,RE,Sub-Saharan Africa,High income,French Republic,0,1,1,1,0,0
+countries,RO,Romania,RO,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,RU,Russia,RU,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,RW,Rwanda,RW,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,BQ_SA,Saba,BQ-SA,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,BL,Saint Barthélemy,BL,Latin America & Caribbean,High income,French Republic,0,1,1,1,0,0
+countries,SH,Saint Helena,SH,Sub-Saharan Africa,Upper-middle income,United Kingdom,0,1,1,1,1,0
+countries,KN,Saint Kitts and Nevis,KN,Latin America & Caribbean,High income,Independent,1,0,1,1,0,1
+countries,LC,Saint Lucia,LC,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,1,1,1
+countries,MF,Saint Martin (French part),MF,Latin America & Caribbean,High income,French Republic,0,1,1,1,0,0
+countries,PM,Saint Pierre and Miquelon,PM,North America,High income,French Republic,0,1,1,1,0,0
+countries,VC,Saint Vincent and the Grenadines,VC,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,1,1,1
+countries,WS,Samoa,WS,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,SM,San Marino,SM,Europe & Central Asia,High income,Independent,0,0,1,0,0,1
+countries,ST,São Tomé and Príncipe,ST,Sub-Saharan Africa,Lower-middle income,Independent,1,0,1,1,1,1
+countries,SA,Saudi Arabia,SA,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,SN,Senegal,SN,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,RS,Serbia,RS,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,SC,Seychelles,SC,Sub-Saharan Africa,High income,Independent,1,0,1,1,0,1
+countries,SL,Sierra Leone,SL,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,SG,Singapore,SG,East Asia & Pacific,High income,Independent,1,0,0,1,0,1
+countries,BQ_SE,Sint Eustatius,BQ-SE,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,SX,Sint Maarten,SX,Latin America & Caribbean,High income,Dutch Kingdom,0,1,1,1,0,0
+countries,SK,Slovakia,SK,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,SI,Slovenia,SI,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,SB,Solomon Islands,SB,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,SO,Somalia,SO,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,ZA,South Africa,ZA,Sub-Saharan Africa,Upper-middle income,Independent,0,0,0,0,1,1
+countries,GS,South Georgia and South Sandwich Islands,GS,,,United Kingdom,0,0,1,1,,0
+countries,SS,South Sudan,SS,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,ES,Spain,ES,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,LK,Sri Lanka,LK,South Asia,Lower-middle income,Independent,0,0,0,1,1,1
+countries,SD,Sudan,SD,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,SR,Suriname,SR,Latin America & Caribbean,Upper-middle income,Independent,1,0,1,0,1,1
+countries,SJ,Svalbard and Jan Mayen,SJ,Europe & Central Asia,High income,Norway,0,0,1,1,0,0
+countries,SE,Sweden,SE,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,CH,Switzerland,CH,Europe & Central Asia,High income,Independent,0,0,0,0,0,1
+countries,SY,Syria,SY,Middle East & North Africa,Low income,Independent,0,0,0,0,1,1
+countries,TW,Taiwan,TW,East Asia & Pacific,High income,Independent,0,0,0,1,0,1
+countries,TJ,Tajikistan,TJ,Europe & Central Asia,Low income,Independent,0,0,0,0,1,1
+countries,TZ,Tanzania,TZ,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,TH,Thailand,TH,East Asia & Pacific,Upper-middle income,Independent,0,0,0,0,1,1
+countries,TL,Timor-Leste,TL,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,TG,Togo,TG,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,TK,Tokelau,TK,East Asia & Pacific,,New Zealand,0,1,1,1,,0
+countries,TO,Tonga,TO,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,TT,Trinidad and Tobago,TT,Latin America & Caribbean,High income,Independent,1,0,1,1,0,1
+countries,TN,Tunisia,TN,Middle East & North Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,TR,Turkey,TR,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,TM,Turkmenistan,TM,Europe & Central Asia,Upper-middle income,Independent,0,0,0,0,1,1
+countries,TC,Turks and Caicos Islands,TC,Latin America & Caribbean,High income,United Kingdom,0,1,1,1,0,0
+countries,TV,Tuvalu,TV,East Asia & Pacific,Upper-middle income,Independent,1,0,1,1,1,1
+countries,UG,Uganda,UG,Sub-Saharan Africa,Low income,Independent,0,0,0,0,1,1
+countries,UA,Ukraine,UA,Europe & Central Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,AE,United Arab Emirates,AE,Middle East & North Africa,High income,Independent,0,0,0,0,0,1
+countries,GB,United Kingdom,GB,Europe & Central Asia,High income,Independent,0,0,0,1,0,1
+countries,UM,United States Minor Outlying Islands,UM,East Asia & Pacific,High income,United States,0,1,1,1,0,0
+countries,US,United States,US,North America,High income,Independent,0,0,0,0,0,1
+countries,UY,Uruguay,UY,Latin America & Caribbean,High income,Independent,0,0,0,0,0,1
+countries,UZ,Uzbekistan,UZ,Europe & Central Asia,Lower-middle income,Independent,0,0,0,0,1,1
+countries,VU,Vanuatu,VU,East Asia & Pacific,Lower-middle income,Independent,1,0,1,1,1,1
+countries,VE,Venezuela,VE,Latin America & Caribbean,Upper-middle income,Independent,0,0,0,0,1,1
+countries,VN,Viet Nam,VN,East Asia & Pacific,Lower-middle income,Independent,0,0,0,0,1,1
+countries,VG,Virgin Islands (British),VG,Latin America & Caribbean,High income,United Kingdom,0,1,1,1,0,0
+countries,VI,Virgin Islands (U.S.),VI,Latin America & Caribbean,High income,United States,0,1,1,1,0,0
+countries,WF,Wallis and Futuna,WF,East Asia & Pacific,Upper-middle income,French Republic,0,1,1,1,1,0
+countries,EH,Western Sahara,EH,Middle East & North Africa,,Independent,0,0,1,0,,0
+countries,YE,Yemen,YE,Middle East & North Africa,Low income,Independent,0,0,0,0,1,1
+countries,ZM,Zambia,ZM,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
+countries,ZW,Zimbabwe,ZW,Sub-Saharan Africa,Lower-middle income,Independent,0,0,0,0,1,1
