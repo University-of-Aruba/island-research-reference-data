@@ -2,11 +2,12 @@
 
 Open reference datasets for small island development research,
 maintained by the [University of Aruba](https://www.ua.aw) research
-community. Datasets are formatted for direct use in XLSForm-based
+community through the [Dutch Caribbean Digital Competence (DCDC) Network](https://dcdc.network/).
+Datasets are formatted for direct use in XLSForm-based
 survey tools (KoboToolbox, ODK) and for integration with R, Python,
 and other analysis environments.
 
-All datasets follow [FAIR data principles](https://www.go-fair.org/fair-principles/):
+All datasets follow [FAIR data principles](https://dcdc.network/about/fair-and-reproducibility/):
 Findable, Accessible, Interoperable, and Reusable.
 
 ---
@@ -113,6 +114,37 @@ as `sids_criteria_matrix.png` in your working directory.
 
 ---
 
+### How many criteria does each SIDS member actually meet?
+A radial bar chart showing the number of acronym criteria (Small,
+Island, Developing, Sovereign) met by each of the 39 sovereign UN
+OHRLLS SIDS members. The circular layout groups countries by
+criteria score, making it easy to see at a glance how many members
+satisfy all four components versus how many are partial fits.
+
+**Files**
+- `visualizations/sids_criteria_radial.R` — reproducible R/ggplot2 code
+- `visualizations/sids_criteria_visualization_explainer.md` — methodology,
+  findings, design notes, and citation guidance
+
+**Requirements**
+
+R packages: `tidyverse`, `ggtext`, `glue`
+
+```r
+install.packages(c("tidyverse", "ggtext", "glue"))
+source("visualizations/sids_criteria_radial.R")
+```
+
+The script reads data directly from this repository and saves the output
+as `sids_criteria_radial.png` in your working directory.
+
+**Citation**
+> de Kort, R.E. (2026). *How many criteria does each SIDS member actually meet?* [Data visualization].
+> Dutch Caribbean Digital Competence Network (DCDC), University of Aruba.
+> GitHub. https://github.com/University-of-Aruba/island-research-reference-data
+
+---
+
 ## How to use in KoboToolbox (XLSForm)
 
 1. Copy the contents of `countries_reference_xlsform.csv` into the
@@ -188,5 +220,5 @@ changes.
 ## Contact
 
 Maintained by Rendell Ernest de Kort through the
-[Dutch Caribbean Digital Competence Network (DCDC)](https://www.ua.aw),
+[Dutch Caribbean Digital Competence (DCDC) Network](https://dcdc.network/),
 University of Aruba.
