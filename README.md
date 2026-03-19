@@ -107,7 +107,7 @@ source("visualizations/sids_criteria_matrix.R")
 The script reads data directly from this repository and saves the output
 as `sids_criteria_matrix.png` in your working directory.
 
-![SIDS criteria matrix — which members actually meet all four components of the acronym?](https://raw.githubusercontent.com/University-of-Aruba/island-research-reference-data/main/visualizations/sids_criteria_matrix.png)
+![SIDS criteria matrix — which members actually meet all four components of the acronym?](visualizations/sids_criteria_matrix.png)
 
 *Each row is one of the 39 sovereign SIDS members, sorted by the number of criteria not met.
 Green tiles indicate the criterion is satisfied; grey tiles indicate it is not.
@@ -145,7 +145,7 @@ source("visualizations/sids_criteria_radial.R")
 The script reads data directly from this repository and saves the output
 as `sids_criteria_radial.png` in your working directory.
 
-![SIDS criteria radial chart — how many of the four acronym criteria does each sovereign member meet?](https://raw.githubusercontent.com/University-of-Aruba/island-research-reference-data/main/visualizations/sids_criteria_radial.png)
+![SIDS criteria radial chart — how many of the four acronym criteria does each sovereign member meet?](visualizations/sids_criteria_radial.png)
 
 *Each segment represents one of the 39 sovereign SIDS members, arranged radially and coloured
 by the number of criteria met. The chart makes it immediately visible how many members satisfy
